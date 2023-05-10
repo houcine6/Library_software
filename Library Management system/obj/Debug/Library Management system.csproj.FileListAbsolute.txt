@@ -1,0 +1,26 @@
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\Library Management system.exe.config
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\Library Management system.exe
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\Library Management system.pdb
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library Management system.csproj.AssemblyReference.cache
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library_Management_system.BooksForm.resources
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library_Management_system.BorrowsForm.resources
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library_Management_system.Form1.resources
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library_Management_system.HomeScreenForm.resources
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library_Management_system.Properties.Resources.resources
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library_Management_system.SalesForm.resources
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library_Management_system.StudentsForm.resources
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library Management system.csproj.GenerateResource.cache
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library Management system.csproj.CoreCompileInputs.cache
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library Management system.exe
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library Management system.pdb
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\hadj said\source\repos\Library Management system\obj\Debug\Library Management system.csproj.CopyComplete
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\StudentsDBv1.mdf
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\StudentsDBv1_log.ldf
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\BooksDBv1.mdf
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\BooksDBv1_log.ldf
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\BorrowsDBv2.mdf
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\BorrowsDBv2_log.ldf
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\SalesDBv1.mdf
+C:\Users\hadj said\source\repos\Library Management system\bin\Debug\SalesDBv1_log.ldf
